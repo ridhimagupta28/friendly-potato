@@ -12,15 +12,15 @@
 ## 🚀 About Me
 
 - 🎓 B.Sc. Mathematics (Hons.)
-- 📊 Interested in Data Science, Analytics and Machine Learning
-- 🧠 Dissertation experience involving Recurrent Neural Networks (RNNs)
-- 📈 Skilled in Python, Data Analytics and Power BI
-- 🌱 Currently learning Machine Learning and Deep Learning
-- 🎯 Aspiring Data Scientist
+- 📊 Interested in Data Science, analytics and machine learning
+- 🧠 Dissertation experience involving Recurrent neural networks (RNNs)
+- 📈 Skilled in Python, R and Power BI
+- 🌱 Currently learning Machine learning and Deep learning
+- 🎯 Aspiring data scientist
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech stack
 
 <p align="center">
 
@@ -28,7 +28,7 @@
 
 </p>
 
-### Data Analytics
+### Data analytics
 
 - Pandas
 - NumPy
@@ -37,11 +37,11 @@
 - Power BI
 - Excel
 
-### Machine Learning
+### Machine learning
 
 - Scikit-Learn
 - TensorFlow
-- Deep Learning Fundamentals
+- Deep learning fundamentals
 - RNNs
 
 ---
@@ -52,7 +52,6 @@
 
 - Data Cleaning
 - Feature Engineering
-- Predictive Modeling
 
 ### Stock Market Analysis
 
